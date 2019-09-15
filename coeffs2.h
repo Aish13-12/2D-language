@@ -223,6 +223,7 @@ fprintf(fp,"%lf\n",(double)rand()*(44.0/7.0)/RAND_MAX);
 fclose(fp);
 
 }
+//Generating angles
 void uniform3(char *str, int len)
 {
 int i;
